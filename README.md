@@ -9,7 +9,13 @@ A aula teve como foco principal a instalação e configuração da plataforma **
 
 ---
 
-## Criação de Máquinas Virtuais
+## 📝 Resumo
+
+Esta aula introdutória teve como objetivo apresentar os fundamentos do uso da plataforma **Microsoft Azure**, com foco na criação de máquinas virtuais e na configuração de contas de armazenamento. Foram abordados conceitos como zonas de disponibilidade, impacto no SLA e os diferentes tipos de replicação de dados oferecidos pelo Azure. A prática envolveu a instalação inicial do Azure e o uso dos principais recursos mencionados.
+
+---
+
+## 🚀 Criação de Máquinas Virtuais
 
 Durante o processo de criação de uma máquina virtual no Azure, é necessário escolher uma **zona de disponibilidade**. A escolha da zona afeta diretamente o **SLA (Service Level Agreement)**, impactando a disponibilidade e a resiliência do serviço.
 
@@ -21,7 +27,7 @@ Durante o processo de criação de uma máquina virtual no Azure, é necessário
 
 ---
 
-## Contas de Armazenamento
+## 💾 Contas de Armazenamento
 
 Foi apresentado um breve resumo sobre a criação de contas de armazenamento no Azure, destacando os diferentes tipos de replicação e suas siglas:
 
@@ -36,6 +42,7 @@ Cada tipo de replicação oferece um nível distinto de redundância e tolerânc
 
 ---
 
-## Conclusão
+## ✅ Conclusão
 
-A aula forneceu uma base prática e teórica para a utilização de recursos essenciais do Microsoft Azure, com foco na implantação de máquinas virtuais e configuração de armazenamento resiliente.
+A aula forneceu uma base prática e teórica para a utilização de recursos essenciais do Microsoft Azure, com foco na implantação de máquinas virtuais e na configuração de armazenamento resiliente.
+
